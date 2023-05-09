@@ -206,4 +206,4 @@ bot.on("message", message => {
   }
 });
 
-bot.login("NzEyMDY0MDE0NDE0NTEyMTk5.XsNigw.606rhRiKvYQTGdJasjQBqsz5lRA");
+
